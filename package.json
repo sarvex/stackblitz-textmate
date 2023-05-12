@@ -31,7 +31,7 @@
 		"editor"
 	],
 	"devDependencies": {
-		"@ava/typescript": "^1.1.1",
+		"@ava/typescript": "^4.0.0",
 		"ava": "^3.15.0",
 		"ow": "^0.23.0",
 		"prettier": "^2.2.1",
