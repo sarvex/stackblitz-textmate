@@ -34,7 +34,7 @@
 		"@ava/typescript": "^4.0.0",
 		"ava": "^5.2.0",
 		"ow": "^1.1.1",
-		"prettier": "^2.2.1",
+		"prettier": "^3.0.2",
 		"typescript": "^5.0.4",
 		"xo": "^0.54.2"
 	},
